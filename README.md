@@ -20,7 +20,7 @@ Diagrama de casos de uso #1:
 ![image](https://user-images.githubusercontent.com/72664922/113377250-64e3c600-9339-11eb-87de-c454c9be1ec0.png)
 
 Diagrama de clases #1: 
-![image](https://user-images.githubusercontent.com/72117571/113377112-04548900-9339-11eb-9d71-b23f60e4624f.png)
+![image](https://user-images.githubusercontent.com/72117571/113381913-cca00e00-9345-11eb-9a1c-1780c9ec4983.png)
 
 Diagrama de Secuencia #1:
 ![Diagrama en blanco](https://user-images.githubusercontent.com/72117571/113379796-1685f580-9340-11eb-9470-ac2af4ffdfa1.png)
@@ -32,6 +32,7 @@ Diagrama de Casos de uso #2:
 ![image](https://user-images.githubusercontent.com/72664922/113377361-b4c28d00-9339-11eb-86ad-8ae829d4e06d.png)
 
 Diagrama de Clases #2: 
+![image](https://user-images.githubusercontent.com/72117571/113381922-d295ef00-9345-11eb-9803-af595330ff63.png)
 
 Diagrama de Secuencia #2:
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/72117571/113380291-6e712c00-9341-11eb-911e-617f34ae77ea.png)
