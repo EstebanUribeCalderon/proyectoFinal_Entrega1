@@ -19,6 +19,7 @@ Diagrama de clases #1:
 ![image](https://user-images.githubusercontent.com/72117571/113377112-04548900-9339-11eb-9d71-b23f60e4624f.png)
 
 Diagrama de Secuencia #1:
+
 Diagrama de Componentes #1: 
 ![image](https://user-images.githubusercontent.com/72664922/113377381-bf7d2200-9339-11eb-80b1-ccb776bc83a6.png)
 
@@ -26,7 +27,9 @@ Diagrama de Casos de uso #2:
 ![image](https://user-images.githubusercontent.com/72664922/113377361-b4c28d00-9339-11eb-86ad-8ae829d4e06d.png)
 
 Diagrama de Clases #2: 
+
 Diagrama de Secuencia #2:
+
 Diagrama de Componentes #2:
 ![image](https://user-images.githubusercontent.com/72664922/113377389-ca37b700-9339-11eb-934d-4e1366272281.png)
 
