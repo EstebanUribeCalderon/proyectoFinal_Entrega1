@@ -12,6 +12,7 @@
 
   Segunda Fucionalidad:
   La segunda funcionalidad es el chat de soporte con un bot en que el que cualquier ciudadano puede registrar un caso asociado a la  mascota. Ademas en tal caso de necesitar mas apoyo se puede comunicar con un agente para ayudarlo en las dudas o problemas mas especificos.
+  
 Diagrama de casos de uso #1: 
 ![image](https://user-images.githubusercontent.com/72664922/113377250-64e3c600-9339-11eb-87de-c454c9be1ec0.png)
 
